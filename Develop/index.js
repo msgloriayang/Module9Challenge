@@ -27,8 +27,8 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((answers) => {
         console.log(answers);
-        // TODO: call writeToFile function and pass in answers
-}}
+    });
+}
 
 // Function call to initialize app
 init();
