@@ -50,6 +50,11 @@ const questions = [
       },
       {
         type: "input",
+        name: "email",
+        message: "Provide a valid email address.",
+      },
+      {
+        type: "input",
         name: "contributors",
         message: "Please list any contributors. (Use GitHub usernames)",
         default: "",
