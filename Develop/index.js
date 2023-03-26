@@ -18,13 +18,14 @@ const questions = [
       },
       {
         type: "input",
-        name: "screenshot",
-        message: "Please provide the relative path to the image you want to use as the screenshot."
-      },
-      {
-        type: "input",
         name: "link",
         message: "Please provide a URL where a user can access your deployed application."
+      },
+      {
+        type: "checkbox",
+        name: "license",
+        message: "Please select a license applicable to this project.",
+        choices: ["MIT", "APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "BSD3", "none"],
       },
       {
         type: "input",
@@ -46,11 +47,6 @@ const questions = [
         type: "input",
         name: "creator",
         message: "Write your GitHub username.",
-      },
-      {
-        type: "input",
-        name: "email",
-        message: "Provide a valid email address.",
       },
       {
         type: "input",
