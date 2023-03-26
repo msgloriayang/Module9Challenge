@@ -4,7 +4,7 @@ by Gloria Yang
 This ReadMe Generator was created by using Node.js and Inquirer.
 ## Deployed Application URL
 https://msgloriayang.github.io/Module9Challenge/
-##Walk-Through Video
+## Walkthrough Video URL
 https://drive.google.com/file/d/1Sg0lzKXvY2Ij0ii1vKMCoWdKn8qndVTW/view
 ## Table of Contents
 * [Features](#features)
