@@ -21,6 +21,11 @@ const questions = [
         name: "link",
         message: "Please provide a URL where a user can access your deployed application."
       },
+        {
+        type: "input",
+        name: "link",
+        message: "Please provide a URL where a user can access your walkthrough video."
+      },
       {
         type: "checkbox",
         name: "license",
