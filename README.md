@@ -5,7 +5,7 @@ This ReadMe Generator was created by using Node.js and Inquirer.
 ## Deployed Application URL
 https://msgloriayang.github.io/Module9Challenge/
 ## Walkthrough Video URL
-https://drive.google.com/file/d/1Sg0lzKXvY2Ij0ii1vKMCoWdKn8qndVTW/view
+https://user-images.githubusercontent.com/118951775/227798638-1589825c-0115-44dd-9556-5f97e4d8d91f.mp4
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
